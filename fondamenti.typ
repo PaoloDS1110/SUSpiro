@@ -16,9 +16,10 @@
 ])
 
 #align(center+bottom, block[
-    Edizioni
+    _Edizioni_
     - prima: settembre 1993
-    - seconda: dicembre 2025
+    - seconda: luglio 2020
+    - terza: dicembre 2025
 ])
 
 #pagebreak()
@@ -164,10 +165,11 @@ oppure
 #line(length: 100%)
 
 #pagebreak()
-= Diteggiature. Modi scala minore melodica (ascendente = jazz) // 12
-Esempio E minore (relativa maggiore = G)
+// Page 12
+= Diteggiature. Modi scala minore melodica (ascendente / jazz)
+Esempio in E minore (relativa di G maggiore)
 \
-TODO
+#figure( image("img/p12.png",  width: 100%))
 
 #pagebreak()
 // tabella pag 13
