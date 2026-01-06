@@ -1,7 +1,8 @@
 #set heading(numbering: "1.1.1 -")
 
 #set document(
-    title: [FONDAMENTI DI ARMONIA\ CLASSICA APPLICATI\ ALLA CHITARRA MODERNA]
+    title: [FONDAMENTI DI ARMONIA\ CLASSICA APPLICATI\ ALLA CHITARRA MODERNA],
+    author: "Paolo Dal Sacco"
     )
 
 #import "@preview/chordx:0.6.1": chart-chord
@@ -255,14 +256,24 @@ Diteggiature estese
 [F♯ø(♭9)], [(1,♭3,♭5,♭7,♭9)], [#figure( image("img/p20-7.png", width: 60%))]
     )
 
-//#line(length: 100%)
-
 #pagebreak()
 // Page 21
 = Diteggiature. Modi scala maggiore a 5 tasti (alternative)
 Esempio C maggiore
 
-TODO
+#table(
+    columns: 3,
+    align: horizon,
+    stroke: none,
+
+[F△], [Lidio],[#figure( image("img/p21-1.png",  width: 65%))],
+[G7], [Misolidio], [#figure( image("img/p21-2.png", width: 65%))],
+[A-7], [Eolio], [#figure( image("img/p21-3.png", width: 60%))],
+[Bø], [Locrio], [#figure( image("img/p21-4.png", width: 60%))],
+[C△], [Ionico], [#figure( image("img/p21-5.png", width: 65%))],
+[D-7], [Dorico], [#figure( image("img/p21-6.png", width: 65%))],
+[E-7], [Frigio], [#figure( image("img/p21-7.png", width: 60%))]
+    )
 
 
 
